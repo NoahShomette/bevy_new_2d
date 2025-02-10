@@ -27,7 +27,7 @@ In particular:.
 - `leafwing-input-manager` and `bevy_mod_picking` are very likely to be upstreamed into Bevy in the near future.
 - `bevy-inspector-egui` and `bevy_mod_debugdump` help fill the gap until Bevy has its own editor.
 - `avian` or `bevy_rapier` helps fill the gap until Bevy has its own physics engine. `avian` is easier to use, while `bevy_rapier` is more performant.
-- `bevy_cobweb_ui` is well-aligned with `bevy_ui` and helps fill the gap until Bevy has a full collection of UI widgets and functionality.
+- `bevy_cobweb_ui` is well-aligned with `bevy_ui` and helps fill the gap until Bevy has a full collection of UI widgets and features.
 
 None of these are necessary, but they can save you a lot of time and effort.
 
